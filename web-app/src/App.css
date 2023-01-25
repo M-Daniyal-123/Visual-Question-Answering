@@ -1,0 +1,16 @@
+.Navbar{
+
+    background-color: rgb(106, 106, 187);
+    color:white;
+    position: fixed;
+    border-color: black;
+    border: solid;
+    width: 100%;
+    top:0;
+
+}
+.heading{
+
+    margin-left: 20px;
+
+}

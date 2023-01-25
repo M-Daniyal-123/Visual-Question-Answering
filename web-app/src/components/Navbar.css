@@ -1,0 +1,42 @@
+body{
+    margin:0;
+
+    font-family: Arial;
+
+ 
+}
+
+
+
+nav {
+
+    display: flex;
+    height:70px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    background-color:white;
+    padding-left: 25px;
+    box-shadow: 0px 2px 7.5px rgba(0,0,0,0.4);
+
+}
+
+nav > h2 {
+    /* margin-right:300px; */
+    text-align: center;
+    font-weight: bold;
+    margin-left: 32%;
+    font-family: sans-serif;
+    color:blue;
+    font-size: 35px;
+}
+
+nav > h3 {
+    text-align: center; 
+    margin-left: 100px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.airbnb-logo{
+    max-width: 300px;
+}
