@@ -1,0 +1,68 @@
+.Card{
+
+    /* display: flex;
+    flex-direction: column; */
+    
+    width:500px;
+    margin-top: 50px;
+    font-size: 15px;
+    margin-left: 30%;
+    box-shadow: 1.5px 3.5px 30px rgba(0,0,0,0.5);
+    border-color: black;
+    border-style: solid;
+    height: 500px;
+    border-width: 0px;
+    border-radius: 5px;
+}
+.NextButton{
+
+    margin-left: 77%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+.card--image{
+
+    width: 50%;
+    border-radius: 5px;
+    margin-left: 25%;
+    /* margin-top: 35px; */
+    margin-bottom: 20px;
+    border: solid;
+    border-style: dashed;
+    position: relative;
+    margin-bottom: 50px;
+}   
+
+.card--status{
+    margin-top: 5px;
+}
+
+.card--star{
+
+    width:7.5%;
+    margin-right: 5px;
+
+}
+
+.bold {
+
+    font-weight: bold;
+}
+.input-field{
+    margin-left: 30px;
+    width:250px;
+    height: 25px;
+    
+}
+.label{
+    margin-left:10px;
+}
+.send-button{
+    margin-left: 400px;
+    margin-top: 15px;
+}
+.answer{
+    margin-left:250px;
+}
